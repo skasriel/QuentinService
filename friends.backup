@@ -1,0 +1,5 @@
+{
+  "quentin": ["timothé", "alban", "daphné"],
+  "papa": ["maman"],
+  "timothé": ["quentin", "alban", "daphné"]
+}
